@@ -1,0 +1,3 @@
+com.alibaba.nacos.common.remote.labels.impl.BetaIpsLabelsCollector
+com.alibaba.nacos.common.remote.labels.impl.TagV1LabelsCollector
+com.alibaba.nacos.common.remote.labels.impl.TagV2LabelsCollector
